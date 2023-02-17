@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 LIVE SITE: https://openia-e5233.web.app/
 
+![openIAScreen](https://user-images.githubusercontent.com/19738241/219634817-c083f81d-1f57-4b92-b431-28388aaff290.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
